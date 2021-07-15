@@ -14,3 +14,5 @@ Player can also chose The level of difficulty.
 ![image](https://user-images.githubusercontent.com/87125700/125812745-f311a425-f4c0-476a-b1d6-a71a9f2f74d8.png)
 
 ## Hard Mode:
+if player guesses the right color.
+![image](https://user-images.githubusercontent.com/87125700/125813009-454bca9f-2cca-450f-bf40-8d7386483ed5.png)
