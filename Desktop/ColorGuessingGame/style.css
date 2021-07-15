@@ -1,0 +1,53 @@
+body{
+    background: rgba(0, 0, 0, 0.808);
+}
+.square{
+    width:20%;
+    padding-bottom:30%;
+    margin:1.66%;
+    float:left;
+    background-color: crimson;
+    flex-direction: column;
+    border-radius: 5%;
+    cursor: pointer;
+
+}
+.container{
+    max-width: 500px;
+}
+h1{
+    color: Black;
+}
+.block{
+    display: block;
+}
+.invisible{
+    background-color: #313131;
+    transition: all 1s fade-in-out;
+}
+.font{
+    font-family: 'Oswald', sans-serif;
+    font-size:xx-large;
+}
+.color{
+    background: rgb(231, 219, 219);
+}
+.green{
+    
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    font-family: Oswald;
+    font-weight: 700;
+    background-color: greenyellow;
+    border-radius: 7%;
+    
+}
+
+#message{
+    
+    display:block;
+    margin: auto;
+    width:auto;
+    height: 10%;
+}
